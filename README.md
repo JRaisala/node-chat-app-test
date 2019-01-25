@@ -3,4 +3,4 @@
 Tutorial from Lynda.com: Learning Node.js
 
 Building a chat application using:
-Node.js, Express, Socket.io
+Node.js, Express, Socket.io, MongoDB
